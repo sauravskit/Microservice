@@ -45,5 +45,4 @@ public class Plan {
 		super();
 	}
 
-	
 }
